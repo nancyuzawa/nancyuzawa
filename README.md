@@ -37,3 +37,4 @@
    <img align="center" alt="Nancy-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
  </div>
+![Snake animation] 
