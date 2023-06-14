@@ -1,7 +1,6 @@
 ## Olá, me chamo Nancy Yuzawa
 
 - 🌱 Estudando front-end (HTML, CSS e JavaScript) e back-end (SQL)
-- 😄 Pronomes: ela/dela
 ##
 <div>
   <a href="https://github.com/nancyuzawa">
@@ -16,8 +15,5 @@
    <img align="center" alt="Nancy-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
   </div>
-
- <div>
    
   ![Snake animation](https://github.com/nancyuzawa/nancyuzawa/blob/output/github-contribution-grid-snake.svg)
-</div>
