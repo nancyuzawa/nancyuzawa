@@ -2,7 +2,7 @@
 
 - 🌱 Estudando front-end (HTML, CSS e JavaScript) e back-end (SQL)
 ##
-<div>
+<div align="center" >
   <a href="https://github.com/nancyuzawa">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancyuzawa&rank_icon=github&theme=dracula)
