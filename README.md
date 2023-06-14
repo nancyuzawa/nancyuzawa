@@ -6,8 +6,10 @@
   <a href="https://github.com/nancyuzawa">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancyuzawa&rank_icon=github&theme=dracula)
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&layout=compact&langs_count=7&theme=dracula" />
-</div>
+<!--   <img height=""  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&layout=compact&langs_count=7&theme=dracula" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  />
+
+ </div>
   
  ## Linguagens e ferramentas
   
