@@ -1,6 +1,7 @@
-## Olá, me chamo Nancy Yuzawa
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2424f&height=120&section=header"/>
 
-- 🌱 Estudando front-end (HTML, CSS e JavaScript) e back-end (SQL)
+<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=✨Hello+I'm+Nancy+Yuzawa;Im+studying+Analysis+and+Systems+Development;Learning+Front-end+and+Back-end;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 ##
 <div align="center" >
   <a href="https://github.com/nancyuzawa">
