@@ -1,15 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2424f&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=✨Hello+I'm+Nancy+Yuzawa;Im+studying+Analysis+and+Systems+Development;Learning+Front-end+and+Back-end;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  />
+<br>
 
-##
-<div align="center" >
-  <a href="https://github.com/nancyuzawa">
+## <h2>About me</h2>
+ - Cursando Análise e Desenvolvimento de Sistemas
+ - Aprofundando em Front-end (HTML, CSS e JS) e aprendendo Back-end (PostgreSQL)
+
+  <div >
+    <a href="https://github.com/nancyuzawa">
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancyuzawa&rank_icon=github&theme=dracula)
-<!--   <img height=""  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&layout=compact&langs_count=7&theme=dracula" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  />
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancyuzawa&rank_icon=github&theme=dracula)-->
+  
 
+   </div>
  </div>
   
  ## Linguagens e ferramentas
