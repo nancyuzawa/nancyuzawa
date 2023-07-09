@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2424f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C0000&height=120&section=header&background=000000"/>
 
-<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=✨Hello+I'm+Nancy+Yuzawa;Im+studying+Analysis+and+Systems+Development;Learning+Front-end+and+Back-end;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=D69F7E&center=true&vCenter=true&width=435&lines=✨Hello+I'm+Nancy+Yuzawa;Im+studying+Analysis+and+Systems+Development;Learning+Front-end+and+Back-end;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyuzawa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  />
 <br>
 
