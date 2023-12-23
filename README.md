@@ -12,11 +12,7 @@
  - Gosto de estar aprendendo novas coisas
 
   <div >
-    <a href="https://github.com/nancyuzawa">
-    
-  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancyuzawa&rank_icon=github&theme=dracula)-->
-  
-
+    <a href="https://github.com/nancyuzawa">  
    </div>
  </div>
   
@@ -32,10 +28,7 @@
    </br></br>
    <img align="center" alt="Nancy-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
    <img align="center" alt="Nancy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-          
-          
-          
-          
+      
   </div>
 
   <picture>
