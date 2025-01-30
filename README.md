@@ -7,7 +7,7 @@
 ## <h2>About me</h2>
 ## <div align = "center">🌿•₊✧💻⋆⭒˚☕️｡⋆</div></br>
  - Cursando Análise e Desenvolvimento de Sistemas
- - Aprofundando em Front-end (HTML, CSS e JS) e aprendendo Back-end (PostgreSQL)
+ - Aprofundando em Front-end (HTML, CSS, JS e React) e aprendendo Back-end (MySQL)
  - Apaixonada pelas soluções que a tecnologia traz
  - Gosto de estar aprendendo novas coisas
 
@@ -16,7 +16,7 @@
    </div>
  </div>
   
- ## Linguagens e ferramentas
+ ## Linguagens
   
   <div id="Logo">    
    <img align="center" alt="Nancy-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -25,10 +25,19 @@
    <img align="center" alt="Nancy-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img align="center" alt="Nancy-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
    <img align="center" alt="Nancy-PostgreSql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-
-   </br></br>
+   <img align="center" alt="Nancy-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   <img align="center" alt="Nancy-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+   <img align="center" alt="Nancy-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Nancy-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+          
+ ## Ferramentas
    <img align="center" alt="Nancy-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
    <img align="center" alt="Nancy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+   <img align="center" alt="Nancy-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+   <img align="center" alt="Nancy-Pycharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
+          
       
   </div>
 
