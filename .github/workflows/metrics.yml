@@ -1,9 +1,9 @@
 name: Indepth analysis
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   metrics:
@@ -13,7 +13,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
