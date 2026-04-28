@@ -1,9 +1,12 @@
-name: Indepth analysis
+name: GitHub Metrics
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
+permissions:
+  contents: read
 
 jobs:
   metrics:
@@ -12,14 +15,17 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.indepth.svg
+          filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+
+          base: header, repositories
+
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 30
+          plugin_languages_ignored: ""
+
+          plugin_languages_analysis_timeout: 30
