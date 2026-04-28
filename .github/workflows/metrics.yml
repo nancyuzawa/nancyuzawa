@@ -20,13 +20,11 @@ jobs:
           base: header, activity, repositories
 
           repositories: yes
-
-          plugin_repositories: yes
-
-          plugin_repositories_limit: 100
+          repositories_forks: yes
 
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 8
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 30
+          plugin_languages_ignored: ""
